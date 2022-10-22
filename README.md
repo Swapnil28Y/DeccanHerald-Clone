@@ -16,7 +16,10 @@ This is an e-newspaper published in the Indian state of Karnataka, it brings bre
 
 
 # Team Members:
+- Sahil Laskar
 - Swapnil Yeutkar
+- Faizan Ghani
+- AmarDeep
 
 
 # Screenshot:
